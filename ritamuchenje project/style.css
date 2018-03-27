@@ -1,0 +1,73 @@
+ body {
+	background-color: thistle;
+	font-size: 15px;
+}
+
+p{
+	color: black;
+	text-align: justify-all;
+	font-size: 15px;
+  
+}
+
+h1 {
+	text-align: center;
+	color: black;
+ 	background-color: orange;
+ 	text-decoration:underline;
+ 	font-size: 50px;
+ 	text-shadow: 5px 1px 0 #222;
+}
+.main-pg {
+	color:black;
+	font-size: 30px;
+	text-align:center;
+	font-weight: bold;
+	text-transform: uppercase; 
+}
+
+h2 {
+	text-decoration: underline;
+	color: #000000;
+	
+}
+a:link {
+	color: purple;
+	font-style: italic;
+}
+a:visited {
+	color:darkred;
+}
+a:hover {
+	color: forestgreen;
+}
+.structures {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    box-sizing: border-box;
+}
+h3 {
+text-decoration: underline;
+text-align: left;
+color:#000000;	
+}
+h4 {
+ text-decoration: underline;
+ color: #000000;
+}
+
+h5 {
+	text-decoration: underline;
+    text-align: center;
+    color: #000000;
+    font-weight: bolder;
+    font-size: 30px;
+
+}
+ 
+ footer {
+ 	text-align: left;
+ 	font-weight: bold;
+ }
